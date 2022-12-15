@@ -15,6 +15,8 @@
 		0F130635294A9BB6007F3E21 /* TransitionData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F130634294A9BB6007F3E21 /* TransitionData.swift */; };
 		0F130637294A9DA4007F3E21 /* TransitionCompareView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F130636294A9DA4007F3E21 /* TransitionCompareView.swift */; };
 		0F130639294AA0CF007F3E21 /* AnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F130638294AA0CF007F3E21 /* AnimationView.swift */; };
+		0F13063B294AA58C007F3E21 /* AnimationCompareView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F13063A294AA58C007F3E21 /* AnimationCompareView.swift */; };
+		0F13063D294AA84B007F3E21 /* EditAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F13063C294AA84B007F3E21 /* EditAnimation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +29,8 @@
 		0F130634294A9BB6007F3E21 /* TransitionData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionData.swift; sourceTree = "<group>"; };
 		0F130636294A9DA4007F3E21 /* TransitionCompareView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionCompareView.swift; sourceTree = "<group>"; };
 		0F130638294AA0CF007F3E21 /* AnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationView.swift; sourceTree = "<group>"; };
+		0F13063A294AA58C007F3E21 /* AnimationCompareView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationCompareView.swift; sourceTree = "<group>"; };
+		0F13063C294AA84B007F3E21 /* EditAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditAnimation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +66,10 @@
 				0F130631294A9752007F3E21 /* Models */,
 				0F130623294A96A6007F3E21 /* AppMain.swift */,
 				0F130625294A96A6007F3E21 /* ContentView.swift */,
+				0F130638294AA0CF007F3E21 /* AnimationView.swift */,
+				0F13063C294AA84B007F3E21 /* EditAnimation.swift */,
 				0F130636294A9DA4007F3E21 /* TransitionCompareView.swift */,
+				0F13063A294AA58C007F3E21 /* AnimationCompareView.swift */,
 				0F130627294A96A8007F3E21 /* Assets.xcassets */,
 				0F130629294A96A8007F3E21 /* Preview Content */,
 			);
@@ -82,7 +89,6 @@
 			children = (
 				0F130632294A9761007F3E21 /* AnimationData.swift */,
 				0F130634294A9BB6007F3E21 /* TransitionData.swift */,
-				0F130638294AA0CF007F3E21 /* AnimationView.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -159,7 +165,9 @@
 			files = (
 				0F130635294A9BB6007F3E21 /* TransitionData.swift in Sources */,
 				0F130626294A96A6007F3E21 /* ContentView.swift in Sources */,
+				0F13063B294AA58C007F3E21 /* AnimationCompareView.swift in Sources */,
 				0F130624294A96A6007F3E21 /* AppMain.swift in Sources */,
+				0F13063D294AA84B007F3E21 /* EditAnimation.swift in Sources */,
 				0F130639294AA0CF007F3E21 /* AnimationView.swift in Sources */,
 				0F130637294A9DA4007F3E21 /* TransitionCompareView.swift in Sources */,
 				0F130633294A9761007F3E21 /* AnimationData.swift in Sources */,
